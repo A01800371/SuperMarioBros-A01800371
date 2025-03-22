@@ -1,0 +1,411 @@
+Using pre-set license
+Built from '6000.0/release' branch; Version is '6000.0.43f1 (97272b72f107) revision 9905963'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit CoreSingleLanguage' Language: 'es' Physical Memory: 14188 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.43f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/TEC/Super Mario Bros
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+61033
+-job-worker-count
+7
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: C:/Users/TEC/Super Mario Bros
+C:/Users/TEC/Super Mario Bros
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [3996]  Target information:
+
+Player connection [3996]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 933928647 [EditorId] 933928647 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-OBDJEDP) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [3996]  * "[IP] 172.26.48.1 [Port] 0 [Flags] 2 [Guid] 933928647 [EditorId] 933928647 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-OBDJEDP) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [3996]  * "[IP] 192.168.0.15 [Port] 0 [Flags] 2 [Guid] 933928647 [EditorId] 933928647 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-OBDJEDP) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [3996] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [3996] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 2.88 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.43f1 (97272b72f107)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.43f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/TEC/Super Mario Bros/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   NVIDIA
+    VRAM:     5998 MB
+    Driver:   32.0.15.5599
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.43f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.43f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.43f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56688
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.43f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.43f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003994 seconds.
+- Loaded All Assemblies, in  0.492 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.408 seconds
+Domain Reload Profiling: 899ms
+	BeginReloadAssembly (179ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (59ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (62ms)
+	LoadAllAssembliesAndSetupDomain (177ms)
+		LoadAssemblies (177ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (173ms)
+			TypeCache.Refresh (171ms)
+				TypeCache.ScanAssembly (157ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (409ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (348ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (25ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (74ms)
+			ProcessInitializeOnLoadAttributes (180ms)
+			ProcessInitializeOnLoadMethodAttributes (64ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.958 seconds
+Refreshing native plugins compatible for Editor in 2.45 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.953 seconds
+Domain Reload Profiling: 1907ms
+	BeginReloadAssembly (202ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (40ms)
+	RebuildCommonClasses (47ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (45ms)
+	LoadAllAssembliesAndSetupDomain (647ms)
+		LoadAssemblies (428ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (335ms)
+			TypeCache.Refresh (239ms)
+				TypeCache.ScanAssembly (217ms)
+			BuildScriptInfoCaches (80ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (954ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (765ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (128ms)
+			ProcessInitializeOnLoadAttributes (454ms)
+			ProcessInitializeOnLoadMethodAttributes (171ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 2.25 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 206 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6569 unused Assets / (7.5 MB). Loaded Objects now: 7213.
+Memory consumption went from 170.4 MB to 162.9 MB.
+Total: 14.654400 ms (FindLiveObjects: 0.795700 ms CreateObjectMapping: 1.040800 ms MarkObjects: 7.454800 ms  DeleteObjects: 5.361400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 76360.750509 seconds.
+  path: Assets/Images/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style.png
+  artifactKey: Guid(d56ea86ce3bc29849a47e9d449edbdb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style.png using Guid(d56ea86ce3bc29849a47e9d449edbdb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '314920daa95823bd1e5e58437d04393d') in 0.2100321 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.776785 seconds.
+  path: Assets/Images/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style.png
+  artifactKey: Guid(d56ea86ce3bc29849a47e9d449edbdb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style.png using Guid(d56ea86ce3bc29849a47e9d449edbdb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0c763f952645c23152256c944a8a2c3f') in 0.0312421 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 110.493120 seconds.
+  path: Assets/Images/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style.png
+  artifactKey: Guid(d56ea86ce3bc29849a47e9d449edbdb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style.png using Guid(d56ea86ce3bc29849a47e9d449edbdb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2d2e4019ac2feeb29b91f3eef9af50ea') in 0.0359286 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 183.737068 seconds.
+  path: Assets/Images/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style.png
+  artifactKey: Guid(d56ea86ce3bc29849a47e9d449edbdb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style.png using Guid(d56ea86ce3bc29849a47e9d449edbdb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0aa42aa74c7a1ed15d5a2f7468658a3b') in 0.6649521 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 256
+
+========================================================================
+Received Import Request.
+  Time since last request: 218.350725 seconds.
+  path: Assets/Tiles
+  artifactKey: Guid(b0be48565a017034e943048c660652c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles using Guid(b0be48565a017034e943048c660652c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4d7ad583d63779ec7183044df0552ed3') in 0.000681 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 93.402779 seconds.
+  path: Assets/Tiles/Mapa.prefab
+  artifactKey: Guid(3e1cb5334b762794e89db0dd3d3e932c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Mapa.prefab using Guid(3e1cb5334b762794e89db0dd3d3e932c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '23989edd1b7756d3b4a88033ae5532f9') in 0.6367212 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.031774 seconds.
+  path: Assets/Tiles/BloquesMario.prefab
+  artifactKey: Guid(1391f16197292d44c9f79e94085cc36a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/BloquesMario.prefab using Guid(1391f16197292d44c9f79e94085cc36a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '166eb88cba532c2362d5fa8e3e7ea69b') in 0.0177706 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 385.958057 seconds.
+  path: Assets/Tiles/BloquesMario.prefab
+  artifactKey: Guid(1391f16197292d44c9f79e94085cc36a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/BloquesMario.prefab using Guid(1391f16197292d44c9f79e94085cc36a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c1872596419e72f6b38a126fe4720a85') in 0.0867947 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 91
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_1.asset
+  artifactKey: Guid(dddd524cead173642bc13e487ce52020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_1.asset using Guid(dddd524cead173642bc13e487ce52020) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b306cd745a1b22e6aeecf4aab1a409cb') in 0.0667446 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_42.asset
+  artifactKey: Guid(dfa1d1383cb22524186809aedf94a9aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_42.asset using Guid(dfa1d1383cb22524186809aedf94a9aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '071bd8ab2bfe0bdb1f221cee8d1181b2') in 0.0198044 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_40.asset
+  artifactKey: Guid(c976d2216bd2f4648a0e665a17c67b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_40.asset using Guid(c976d2216bd2f4648a0e665a17c67b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '464e8d6d302d8024ae1f0c52aba8c7d4') in 0.0184169 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_57.asset
+  artifactKey: Guid(d899e4d2286acac47aa240797cba9afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_57.asset using Guid(d899e4d2286acac47aa240797cba9afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0a0392adf0542e16290cca3d8df66cf1') in 0.0193181 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_39.asset
+  artifactKey: Guid(9f6e1fd4cfd9f2e4eb25abf044750250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_39.asset using Guid(9f6e1fd4cfd9f2e4eb25abf044750250) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0873177fd097e600d9be55157fc4b4df') in 0.0203354 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_118.asset
+  artifactKey: Guid(7173bdfbf7615244aaa4efbe746dcd01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_118.asset using Guid(7173bdfbf7615244aaa4efbe746dcd01) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6b086548bf416e55d109e825c2019d01') in 0.0195488 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_38.asset
+  artifactKey: Guid(0151a69317d214a49b75fd75e4d63f2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_38.asset using Guid(0151a69317d214a49b75fd75e4d63f2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '195ee15c70ecccbe176de1b2c208ee3c') in 0.0162213 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_119.asset
+  artifactKey: Guid(0aed5f02f0c730b408c3c761518b3529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_119.asset using Guid(0aed5f02f0c730b408c3c761518b3529) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1faf8479b5db72db681fb8a2742b10d2') in 0.0186006 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_45.asset
+  artifactKey: Guid(d2227ce0e2d7b4547a410fe958ed80c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_45.asset using Guid(d2227ce0e2d7b4547a410fe958ed80c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b276b7ffc44dd7aa818eaa0158e3d913') in 0.010878 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_101.asset
+  artifactKey: Guid(d86726026fec9b9468b915269140c315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_101.asset using Guid(d86726026fec9b9468b915269140c315) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd3b95d920ba5278f44e9dda50ca25711') in 0.0232324 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_55.asset
+  artifactKey: Guid(9179f34e1d3ed284da1c2778d094087d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_55.asset using Guid(9179f34e1d3ed284da1c2778d094087d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eb05c492aee78cdff12f3cf43fb44b57') in 0.020861 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_50.asset
+  artifactKey: Guid(3615e30df5b78874f80ded76bc47b362) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_50.asset using Guid(3615e30df5b78874f80ded76bc47b362) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '278591662dd29b0fc6fdac86a7c1a822') in 0.0213369 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_115.asset
+  artifactKey: Guid(6512d9ccc22e0c64e9195f2234b318a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_115.asset using Guid(6512d9ccc22e0c64e9195f2234b318a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e51d40905256b009c5d02b8c4cc89d89') in 0.0249051 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_117.asset
+  artifactKey: Guid(1b5caad0be3386a47af169efd56e79b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_117.asset using Guid(1b5caad0be3386a47af169efd56e79b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e347f188388341dee51cd0ac9a07cc36') in 0.025538 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_102.asset
+  artifactKey: Guid(78e56a432f3bdb54881009ecdcaaded0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_102.asset using Guid(78e56a432f3bdb54881009ecdcaaded0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '49067fe201e5cd9b72e98afba69c59c6') in 0.0161177 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_60.asset
+  artifactKey: Guid(bf48c0b86060dfb47899261bf3dbcbcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_60.asset using Guid(bf48c0b86060dfb47899261bf3dbcbcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '08c6a7467a27d156b62f1670735ed989') in 0.0194298 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_116.asset
+  artifactKey: Guid(0339aa0fe58ee6040b36d7adbfb45d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_116.asset using Guid(0339aa0fe58ee6040b36d7adbfb45d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a99277c04b5b7c3ff037154ad00666c1') in 0.0139956 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_49.asset
+  artifactKey: Guid(ac44f0b7da7c34f438fb2c47f7e0cba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_49.asset using Guid(ac44f0b7da7c34f438fb2c47f7e0cba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f90499e933f6fc549d32aea9e337bc13') in 0.0164079 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_48.asset
+  artifactKey: Guid(dbd72d61cbc548044a7fdccd83e3b387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Custom Edited - Mario Customs - Super Mario Bros 1 NES PICO-8-Style_48.asset using Guid(dbd72d61cbc548044a7fdccd83e3b387) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9f26c9f9dc9df4f19e3df3175afeb7ba') in 0.0155195 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
