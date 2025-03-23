@@ -11,8 +11,8 @@ public class MuevePersonaje : MonoBehaviour
     [SerializeField] private float velocidadY;
 
     // Componentes
-    private Rigidbody2D rb;
-    private Animator animator;
+    private Rigidbody2D rb; // Permite uso de las Fisicas
+    private Animator animator; // Accede a las animaciones
 
     void Start()
     {
