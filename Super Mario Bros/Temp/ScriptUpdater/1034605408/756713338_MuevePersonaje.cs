@@ -1,7 +1,3 @@
-// Erik Owen Castro Flores
-// A01800371
-// Movimiento del Personaje con Animaciones
-
 using UnityEngine;
 
 public class MuevePersonaje : MonoBehaviour
